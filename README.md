@@ -1,5 +1,5 @@
 **Lumina**
-*A blazing-fast, tag-based file explorer built with Go and GioUI*
+*A blazing-fast, tag-based file explorer built with Go*
 
 **Introduction**
 
